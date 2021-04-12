@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgnacioPorrini
 - 👀 I’m interested in ... Web Development and Design 
 - 🌱 I’m currently learning ... React, Redux and Node
-- 📫 How to reach me ... by mail[ nachopo@gmail.com ] or at my webpage contact form.
+- 📫 How to reach me ... by mail [nachopo@gmail.com] or at my webpage contact form.
 
 https://www.ignacioporrini.com/
 
